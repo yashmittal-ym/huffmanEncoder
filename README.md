@@ -1,2 +1,2 @@
-# huffmanEncoder
-text file size compressor
+# CBHuffman
+CB Huffman
